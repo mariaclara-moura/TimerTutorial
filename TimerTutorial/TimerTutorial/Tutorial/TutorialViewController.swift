@@ -1,5 +1,5 @@
 //
-//  CrazyViewController.swift
+//  TutorialViewController.swift
 //  ScratchBook
 //
 //  Created by Maria Clara Albuquerque Moura on 08/04/25.
